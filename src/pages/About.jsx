@@ -2,6 +2,7 @@ import React from "react";
 import SkillCards from '../components/SkillCards';
 import { SiDocker, SiJavascript, SiPython, SiReact } from 'react-icons/si';
 import { FaJava } from 'react-icons/fa6';
+import meImg from '../assets/me.png';
 
 export function About() {
     const skills = [
@@ -18,9 +19,9 @@ return (
         <section className="w-full max-w-6xl py-20">
             <div className="flex flex-col md:flex-row-reverse items-center md:items-start justify-center md:justify-between gap-12 pt-10">
                 <div className="flex-shrink-0 w-56 h-56 md:w-72 md:h-72 rounded-full overflow-hidden shadow-lg">
-                    <img src="/assets/me.png"
-                    alt="Larissa Shiba"
-                    className="w-full h-full object-cover"
+                    <img 
+                    src={meImg} alt="Larissa Shiba" 
+                    className="w-full h-full object-cover" 
                     />
             </div>
 
