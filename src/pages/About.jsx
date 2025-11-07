@@ -25,7 +25,7 @@ return (
                     />
             </div>
 
-            <div className="max-w-xl text-center md:text-left pt-30 pb-20">
+            <div className="max-w-xl text-center md:text-left pt-7 pb-10">
                 <h1 className="text-4xl md:text-7xl font-family mb-4 leading-tight typing bg-gradient-to-r from-blue-400 via-indigo-400 to-purple-500 bg-clip-text text-transparent">
                     More about me!
                 </h1>
