@@ -1,16 +1,39 @@
-# React + Vite
+# Personal Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> My personal portfolio developed with **React**, **Tailwind CSS**, and **JavaScript**.  
+> It uses **React Router DOM** for page navigation and **React Icons** for icons.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Technologies Used
 
-## React Compiler
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Page navigation with **React Router DOM**
+- Responsive layout with **Tailwind CSS**
+- Reusable and organized components
+- Custom icons using **React Icons**
+- Clean folder structure (`components`, `pages`, etc.)
+- Easy to expand and customize
+
+---
+
+## 🔗 Project Links
+
+- GitHub: [https://github.com/larissashiba/personal-portfolio](https://github.com/larissashiba/personal-portfolio)  
+
+---
+
+## 📌 Contact
+
+- 🐱 [GitHub](https://github.com/larissashiba)
+- 💼 [LinkedIn](https://www.linkedin.com/in/larissa-shiba-felix-38a526365/)
+
