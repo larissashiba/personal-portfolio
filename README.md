@@ -32,6 +32,14 @@
 
 ---
 
+## 🌐 Live Site
+
+The portfolio is also available online, deployed on Vercel:  
+
+🌟 [Visit the site](https://larissashiba.vercel.app/)
+
+---
+
 ## 📌 Contact
 
 - 🐱 [GitHub](https://github.com/larissashiba)

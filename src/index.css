@@ -10,31 +10,6 @@ body {
     background-color: rgb(135, 197, 245)
 }
 
-.img-con {
-    max-width: 100%;
-    margin-bottom: 3px;
-    clip-path: inset(0 0 0 0);
-    overflow: hidden;
-}
-
-.img-con img {
-    display: block;
-    width: 100%;
-    animation: float 7s ease-in-out infinite;
-}
-
-@keyframes float {
-    0% {
-    transform: translateY(0%);
-    }
-    50% {
-    transform: translateY(3%);
-    }
-    100% {
-    transform: translateY(0%);
-    }
-}
-
 .typing {
     overflow: hidden;
     white-space: nowrap;
