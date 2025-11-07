@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 20px;
+    background-color: rgb(135, 197, 245)
+}
+
+.img-con {
+    max-width: 100%;
+    margin-bottom: 3px;
+    clip-path: inset(0 0 0 0);
+    overflow: hidden;
+}
+
+.img-con img {
+    display: block;
+    width: 100%;
+    animation: float 7s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% {
+    transform: translateY(0%);
+    }
+    50% {
+    transform: translateY(3%);
+    }
+    100% {
+    transform: translateY(0%);
+    }
+}
+
+.typing {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 4px solid rgb(152, 99, 250); 
+    animation:
+    typing 6s steps(100) infinite,
+    blink 3s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes blink {
+    50% { border-color: transparent; }
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #3b82f6, #9333ea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
