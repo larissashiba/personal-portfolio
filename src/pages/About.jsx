@@ -18,8 +18,7 @@ return (
         <section className="w-full max-w-6xl py-20">
             <div className="flex flex-col md:flex-row-reverse items-center md:items-start justify-center md:justify-between gap-12 pt-10">
                 <div className="flex-shrink-0 w-56 h-56 md:w-72 md:h-72 rounded-full overflow-hidden shadow-lg">
-                    <img
-                    src="/src/assets/me.png"
+                    <img src="/assets/me.png"
                     alt="Larissa Shiba"
                     className="w-full h-full object-cover"
                     />
